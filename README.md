@@ -1,14 +1,19 @@
 # Hi! :wave:
 
-My name is **TJ** (a.k.a Tanuj).
+I'm **TJ** (a.k.a Tanuj).
 
-I'm a Developer :computer: and Entrepreneur :briefcase: from India :india:, living in UAE :united_arab_emirates:.
+A Developer :computer: and Entrepreneur :briefcase: from India :india:, living in UAE :united_arab_emirates:.
+
+Previously each company, I worked at or started, had it's own GitHub account from which my code would be pushed.
+
+I've recently started using my own GitHub for this, like it always should have been. Moving forward, I hope to support the opensource community more. Either by doing PRs or creating more opensource projects.
 
 ## Projects
 
-Sadly I have not used GitHub for my previous projects, but hope to support the open-source community more.
+Currently working on Web3 developement (Solidity) along with Front-End web developement (React & Next).
 
-Currently working on Web3 developement (Solidity) along with Front-End web developement (React).
+- Co-Founder of [TMT Labs](https://tmtlabs.xyz)
+- Lead Dev at [ThePeepsProject](https://thepeepsproject.com). Including [DubaiPeeps](https://dubaipeeps.com) and [AnonymousPeeps](https://anonymouspeeps.com)
 
 ## Get in touch
 
@@ -42,5 +47,6 @@ Currently working on Web3 developement (Solidity) along with Front-End web devel
 <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />&nbsp;&nbsp;
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />&nbsp;&nbsp;
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />&nbsp;&nbsp;
+<img align="left" alt="React" width="26px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />&nbsp;&nbsp;
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />&nbsp;&nbsp;
 <img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" style="padding-right:10px;" />
