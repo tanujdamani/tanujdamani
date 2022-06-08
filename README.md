@@ -19,7 +19,7 @@ Currently working on Web3 developement (Solidity) along with Front-End web devel
 
 ## Get in touch
 <!-- Website -->
-[![Website](./img/web-light.svg)](https://tanujd.com#gh-dark-mode-only)
+[![Website](./img/web-light.svg)](https://tanujd.com#gh-light-mode-only)
 [![Website](./img/web-dark.svg)](https://tanujd.com#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![Twitter](./img/twitter-light.svg)](https://twitter.com/tanujdamani#gh-light-mode-only)
