@@ -47,26 +47,15 @@ Currently working on Web3 developement (Solidity) along with Front-End web devel
 ## Languages
 
 <img align="left" alt="Solidity" width="17px" src="./img/solidity-light.svg#gh-light-mode-only" style="padding-right:10px;" />
-<img align="left" alt="Solidity" width="25px" src="./img/solidity-dark.svg#gh-dark-mode-only" style="padding-right:10px; margin-top:3px" />
-&nbsp;&nbsp;
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="padding-right:10px;" />
-&nbsp;&nbsp;
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="padding-right:10px;" />
-&nbsp;&nbsp;
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" style="padding-right:10px;" />
-&nbsp;&nbsp;
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="padding-right:10px;" />
-&nbsp;&nbsp;
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-&nbsp;&nbsp;
-<img align="left" alt="React" width="26px" style="fill:#ffffff" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
-&nbsp;&nbsp;
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-&nbsp;&nbsp;
+<img align="left" alt="Solidity" width="25px" src="./img/solidity-dark.svg#gh-dark-mode-only" style="padding-right:10px; margin-top:3px" />&nbsp;&nbsp;
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="padding-right:10px;" />&nbsp;&nbsp;
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="padding-right:10px;" />&nbsp;&nbsp;
+<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" style="padding-right:10px;" />&nbsp;&nbsp;
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="padding-right:10px;" />&nbsp;&nbsp;
+<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />&nbsp;&nbsp;
+<img align="left" alt="React" width="26px" style="fill:#ffffff" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />&nbsp;&nbsp;
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />&nbsp;&nbsp;
 <img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" style="padding-right:10px;" />
-
-![NextJs](./img/nextjs-light.svg#gh-light-mode-only)
-![NextJs](./img/nextjs-dark.svg#gh-dark-mode-only)
 
 [website]: https://tanujd.com
 [twitter]: https://twitter.com/tanujdamani
