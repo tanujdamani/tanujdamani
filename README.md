@@ -1,4 +1,4 @@
-![Twitter Follow](https://img.shields.io/twitter/follow/tanujdamani?style=social)
+![[Twitter Follow](https://img.shields.io/twitter/follow/tanujdamani?style=social)]
 
 # Hi! :wave:
 
@@ -15,7 +15,9 @@ I've recently started using my own GitHub for this, like it always should have b
 Currently working on Web3 developement (Solidity) along with Front-End web developement (React & Next).
 
 - Co-Founder of [TMT Labs](https://tmtlabs.xyz)
-- Lead Dev at [ThePeepsProject](https://thepeepsproject.com). Including [DubaiPeeps](https://dubaipeeps.com) and [AnonymousPeeps](https://anonymouspeeps.com)
+- Lead Dev at:
+  - [ThePeepsProject](https://thepeepsproject.com). Including [DubaiPeeps](https://dubaipeeps.com) and [AnonymousPeeps](https://anonymouspeeps.com)
+  - [LuckyRabbitsClub](https://www.luckyrabbitsclub.com/)
 
 ## Get in touch
 <!-- Website -->
