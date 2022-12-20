@@ -1,4 +1,4 @@
-![[Twitter Follow](https://img.shields.io/twitter/follow/tanujdamani?style=social)]
+[![Follow @tanujdamani](https://img.shields.io/twitter/follow/tanujdamani?style=social '@tanujdamani')](https://twitter.com/tanujdamani)
 
 # Hi! :wave:
 
