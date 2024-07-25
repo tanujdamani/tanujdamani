@@ -6,7 +6,7 @@ I'm **TJ** (a.k.a Tanuj).
 
 An Entrepreneur :briefcase:, Developer :computer: and Innovator :test_tube: from India :india:, living in UAE :united_arab_emirates:.
 
-Currently focused on Web3, co-founder of [dappunk](https://dappunk.com) & [TMT Labs](https://tmtlabs.xyz)
+Currently focused on Web3, co-founder of [Hedgemony](https://hedgemony.xyz), [dappunk](https://dappunk.com) & [TMT Labs](https://tmtlabs.xyz)
 
 ## Get in touch
 <!-- Website -->
@@ -38,8 +38,9 @@ Currently focused on Web3, co-founder of [dappunk](https://dappunk.com) & [TMT L
 <img align="left" alt="Flutter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="padding-right:10px;" />&nbsp;&nbsp;
 <img align="left" alt="NodeJs" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />&nbsp;&nbsp;
 <img align="left" alt="ReactJs" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />&nbsp;&nbsp;
-<img align="left" alt="Nextjs" width="26px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />&nbsp;&nbsp;
-<img align="left" alt="Tailwind" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="padding-right:10px;" />&nbsp;&nbsp;
+<img align="left" alt="Nextjs" width="26px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg#gh-dark-mode-only" />
+<img align="left" alt="Nextjs" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg#gh-light-mode-only" style="padding-right:10px;" />&nbsp;&nbsp;
+<img align="left" alt="Tailwind" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" style="padding-right:10px;" />&nbsp;&nbsp;
 <img align="left" alt="ExpressJs" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="padding-right:10px;" />&nbsp;&nbsp;
 
 <br />
