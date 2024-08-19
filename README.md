@@ -6,18 +6,18 @@ I'm **TJ** (a.k.a Tanuj).
 
 An Entrepreneur :briefcase:, Developer :computer: and Innovator :test_tube: from India :india:, living in UAE :united_arab_emirates:.
 
-Currently focused on Web3, co-founder of [Hedgemony](https://hedgemony.xyz), [dappunk](https://dappunk.com) & [TMT Labs](https://tmtlabs.xyz)
+Currently focused on Web3, co-founder of [dappunk](https://dappunk.com) & [TMT Labs](https://tmtlabs.xyz)
 
 ## Get in touch
 <!-- Website -->
 [![Website](./img/web-light.svg)](https://tanujd.com#gh-light-mode-only)
 [![Website](./img/web-dark.svg)](https://tanujd.com#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![Twitter](./img/twitter-light.svg)](https://twitter.com/tanujdamani#gh-light-mode-only)
-[![Twitter](./img/twitter-dark.svg)](https://twitter.com/tanujdamani#gh-dark-mode-only)
-&nbsp;&nbsp;
 [![LinkedIn](./img/linkedin-light.svg)](https://linkedin.com/in/tanujdamani#gh-light-mode-only)
 [![LinkedIn](./img/linkedin-dark.svg)](https://linkedin.com/in/tanujdamani#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![Twitter](./img/twitter-light.svg)](https://twitter.com/tanujdamani#gh-light-mode-only)
+[![Twitter](./img/twitter-dark.svg)](https://twitter.com/tanujdamani#gh-dark-mode-only) 𝕏
 
 <br />
 
